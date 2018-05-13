@@ -7,7 +7,7 @@ port = '/dev/ttyACM0'
 baud = 9600
 
 # ##################################
-ser = serial.Serial(port, buad)
+ser = serial.Serial(port, baud)
 while True:
     ln = ser.read()
     print typewrite(ln)
