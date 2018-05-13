@@ -1,0 +1,9 @@
+Dev trace
+
+Keyboard events
+    https://stackoverflow.com/questions/13564851/how-to-generate-keyboard-events-in-python
+    https://github.com/asweigart/pyautogui
+    https://pyautogui.readthedocs.io/en/latest/
+Arduino Serial
+    http://playground.arduino.cc/interfacing/python
+    https://pyserial.readthedocs.io/en/latest/
